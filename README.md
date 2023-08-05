@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-Templates
+# Data Science Summary
 Templates for Exploratory Data Analysis
 
 ## PACE Framework for Data Analytics Projects
