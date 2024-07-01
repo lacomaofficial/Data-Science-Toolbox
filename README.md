@@ -1,6 +1,6 @@
 # Data Science Toolbox
 
-Welcome to the Data Science Toolbox repository! This repository serves as a comprehensive guide to the most efficient and commonly used techniques in data science tasks, along with the PACE framework for successful data analytics projects.
+Welcome to the Data Science Toolbox repository! A comprehensive guide to the most efficient and commonly used techniques in data science tasks, along with the PACE framework for successful data analytics projects.
 
 Feel free to explore the content!
 
